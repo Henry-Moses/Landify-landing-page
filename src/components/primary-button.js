@@ -1,8 +1,6 @@
-import React from 'react'
-
-import PropTypes from 'prop-types'
-
-import './primary-button.css'
+import React from 'react';
+import PropTypes from 'prop-types';
+import './primary-button.css';
 
 const PrimaryButton = (props) => {
   return (

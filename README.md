@@ -1,2 +1,2 @@
-# Landify-landing-page
+# landify-landing-page
 Created with CodeSandbox
