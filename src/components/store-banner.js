@@ -1,7 +1,5 @@
 import React from 'react'
-
 import PropTypes from 'prop-types'
-
 import './store-banner.css'
 
 const StoreBanner = (props) => {

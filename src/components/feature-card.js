@@ -1,8 +1,6 @@
-import React from 'react'
-
-import PropTypes from 'prop-types'
-
-import './feature-card.css'
+import React from 'react';
+import PropTypes from 'prop-types';
+import './feature-card.css';
 
 const FeatureCard = (props) => {
   return (
